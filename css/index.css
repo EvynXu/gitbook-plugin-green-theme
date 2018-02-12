@@ -19,10 +19,7 @@ body {
     color: #7f8c8d;
     font-family: 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;
 }
-.book .book-summary ul.summary li span {
-    opacity: 0.6;
-    cursor: not-allowed;
-}
+
 .book-summary ul.summary li.active>a {
     color: #42b983;
     font-weight: 600;
