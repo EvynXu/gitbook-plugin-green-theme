@@ -1,0 +1,13 @@
+
+{
+  "name": "gitbook-plugin-theme",
+  "version": "0.0.1",
+  "description": "theme for gitbook",
+  "engines": {
+    "gitbook": ">1.x.x"
+  },
+  "gitbook": {
+    "properties": {
+    }
+  }
+}
